@@ -1,3 +1,3 @@
-# coba-app
+# Coba APP
 
-hello world
+Hello, ini cuma code testing doang
